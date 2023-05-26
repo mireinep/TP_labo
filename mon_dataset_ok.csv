@@ -1,0 +1,839 @@
+ID,entrance_date,discharge_date,Gender,Age,Disease,Service
+1,1/2/2010,1/7/2010,F,12,palustose,Pediatrie
+2,1/2/2010,1/8/2010,F,30,diabete,Hospitalisation
+3,1/2/2010,1/9/2010,M,6,hernie,Pediatrie
+4,1/2/2010,1/10/2010,M,23,infection et diabete,Hospitalisation
+5,1/2/2010,1/11/2010,M,22,KOD,Gynecologie
+6,1/3/2010,1/12/2010,F,23,palustose,Hospitalisation
+7,1/3/2010,1/13/2010,M,23,choc emotionnel,Hospitalisation
+8,1/3/2010,1/14/2010,F,25,infection uterine,Hospitalisation
+9,1/4/2010,,M,38,infectieux adherentiel,Hospitalisation
+10,1/4/2010,1/9/2010,M,45,Porte entr?e digestif,Hospitalisation
+11,1/4/2010,1/7/2010,M,30,particolis,Hospitalisation
+12,1/5/2010,1/15/2010,M,35,paludisme,Hospitalisation
+13,1/5/2010,1/10/2010,F,28,palustre,Hospitalisation
+14,1/5/2010,1/11/2010,M,34,paludisme,Hospitalisation
+15,1/5/2010,1/12/2010,F,30,Palusisme,Hospitalisation
+16,1/5/2010,1/13/2010,F,15,choc emotionnel,Pediatrie
+17,1/6/2010,1/13/2010,M,12,hernie bilaterale,Pediatrie
+18,1/6/2010,1/6/2010,F,20,MAP,Gynecologie
+19,1/6/2010,1/9/2010,M,56,paludisme,Hospitalisation
+20,,1/10/2010,M,45,fievre,Hospitalisation
+21,1/6/2010,1/11/2010,M,45,Paludisme,Hospitalisation
+22,1/6/2011,1/8/2011,F,30,fievre,Hospitalisation
+23,1/7/2011,1/8/2011,F,23,palustre,Hospitalisation
+24,1/8/2011,1/10/2011,F,19,infection iterine,Hospitalisation
+25,1/8/2011,1/14/2011,M,18,choc emotionnel,Hospitalisation
+26,1/8/2011,1/12/2011,F,17,fievre,Hospitalisation
+27,1/8/2011,1/11/2011,F,12,paludisme,Pediatrie
+28,1/8/2011,1/8/2011,F,78,diabete,Hospitalisation
+29,1/9/2011,1/14/2011,F,34,diabete,Hospitalisation
+30,1/9/2011,1/10/2011,M,34,fievre,Hospitalisation
+31,1/9/2011,1/16/2011,M,12,Hernie,Pediatrie
+32,1/9/2011,1/11/2011,F,18,fievre,Hospitalisation
+33,1/9/2011,1/14/2011,M,19,paludisme,Hospitalisation
+34,1/9/2011,1/15/2011,M,20,fievre,Hospitalisation
+35,1/9/2011,1/15/2011,F,30,diabete,Hospitalisation
+36,1/9/2011,1/14/2011,F,23,fievre,Hospitalisation
+37,1/9/2011,1/19/2011,M,78,paludisme,Hospitalisation
+38,1/10/2011,1/14/2011,M,69,fievre,Hospitalisation
+39,1/10/2011,1/15/2011,F,45,myome uterine,Hospitalisation
+40,1/10/2011,1/14/2011,F,40,palustose,Hospitalisation
+41,1/10/2011,1/13/2011,F,23,choc emotionnel,Hospitalisation
+42,1/10/2011,1/12/2011,F,34,choc emotionnel,Hospitalisation
+43,1/10/2011,1/16/2011,M,23,fievre,
+44,1/10/2011,1/12/2011,F,34,fievre,Hospitalisation
+45,1/10/2012,1/14/2012,M,12,hernie,Pediatrie
+46,1/10/2012,1/12/2012,F,21,fievre,Hospitalisation
+47,1/10/2012,1/12/2012,M,12,chute faciale,Pediatrie
+48,1/10/2012,1/13/2012,F,8,chute faciale,Pediatrie
+49,1/10/2012,1/14/2012,M,79,diabete,Hospitalisation
+50,1/10/2012,1/12/2012,M,25,diabete,Hospitalisation
+51,1/10/2012,1/14/2012,F,34,fievre,Hospitalisation
+52,1/10/2012,1/12/2012,F,23,choc emotionnel,Hospitalisation
+53,1/10/2012,1/13/2012,M,23,myome uterine,Hospitalisation
+54,1/11/2012,1/14/2012,M,13,fievre,Pediatrie
+55,1/11/2012,1/13/2012,M,12,hernie,Pediatrie
+56,1/11/2012,1/14/2012,M,25,palustre,Hospitalisation
+57,1/11/2012,1/12/2012,M,23,porte entr?e digestif,Hospitalisation
+58,1/11/2012,1/14/2012,F,23,Palustose,Hospitalisation
+59,1/11/2012,1/13/2012,M,24,fievre,Hospitalisation
+60,1/11/2012,1/12/2012,F,34,choc emotionnel,Hospitalisation
+61,1/11/2012,1/13/2012,F,45,hernie,Hospitalisation
+62,1/11/2012,1/14/2012,F,47,palustre,Hospitalisation
+63,1/11/2013,1/13/2013,M,23,paludisme,Hospitalisation
+64,1/11/2013,1/14/2013,F,26,fievre,Hospitalisation
+65,1/12/2013,1/15/2013,M,24,diabete,Hospitalisation
+66,1/12/2013,1/14/2013,F,27,choc emotionnel,Hospitalisation
+67,1/13/2013,1/8/2013,F,30,Palustre et Rhume,Hospitalisation
+68,1/14/2013,1/4/2013,F,22,grippe et palustre,Hospitalisation
+69,1/15/2013,1/5/2013,F,30,infectieux ,Hospitalisation
+70,1/16/2013,1/3/2013,F,20,Apprendiculaire,Hospitalisation
+71,1/17/2013,1/1/2013,F,50,crise hypertension,Hospitalisation
+72,1/18/2013,1/7/2013,F,70,infectieux et diabete,Hospitalisation
+73,1/19/2013,1/8/2013,M,20,Gastrite aigue,Hospitalisation
+74,1/20/2013,1/7/2013,M,48,infectieux grippe,Hospitalisation
+75,1/21/2013,1/7/2013,M,26,infectieux,Hospitalisation
+76,1/22/2013,1/11/2013,F,47,choc emotionnel,Hospitalisation
+77,1/23/2013,1/8/2013,M,31,infectieux migneneux,Hospitalisation
+78,1/24/2013,1/11/2013,F,26,effet du losorton,Hospitalisation
+79,1/25/2013,1/12/2013,F,56,choc emotionnel,Hospitalisation
+80,1/26/2013,1/17/2013,M,39,affebrile,Hospitalisation
+81,1/27/2013,1/17/2013,F,48,crise de moque,Hospitalisation
+82,1/28/2013,1/21/2013,M,45,infectieux,Hospitalisation
+83,1/29/2013,1/18/2013,F,25,alteagique,Hospitalisation
+84,1/30/2014,1/18/2014,M,25,ulcere gasto,Hospitalisation
+85,1/31/2014,1/21/2014,F,51,choc emotionnel,Hospitalisation
+86,2/1/2014,1/21/2014,F,46,paludisme grave,Hospitalisation
+87,2/2/2014,1/22/2014,M,17,choc emotionnel,Hospitalisation
+88,2/3/2014,1/23/2014,F,32,paludisme,Hospitalisation
+89,2/4/2014,1/22/2014,M,19,infectieux,Hospitalisation
+90,2/5/2014,2/8/2014,M,44,infectieux,Hospitalisation
+91,2/6/2014,2/5/2014,F,17,Rhumatisme,Hospitalisation
+92,2/7/2015,2/8/2015,F,27,choc emotionnel,Hospitalisation
+93,2/8/2015,2/5/2015,F,21,infectieux,Hospitalisation
+94,2/9/2015,2/6/2015,M,75,encepholite aigue,Hospitalisation
+95,2/10/2015,2/12/2015,F,23,fievre de courte duree,Hospitalisation
+96,2/11/2015,2/12/2015,M,13,obstobeptique,Hospitalisation
+97,2/12/2015,2/12/2015,F,46,infectieux,Hospitalisation
+98,2/13/2015,2/18/2015,F,34,infectieux,Hospitalisation
+99,2/14/2015,2/15/2015,F,50,infectieux,Hospitalisation
+100,2/15/2015,2/13/2015,F,31,choc emotionnel,Hospitalisation
+101,2/16/2015,2/16/2015,F,65,palustre,Hospitalisation
+102,2/17/2015,2/18/2015,F,46,palustre,Hospitalisation
+103,2/18/2015,2/16/2015,M,20,particolis,Hospitalisation
+104,2/19/2015,2/23/2015,F,45,GEA,Hospitalisation
+105,2/20/2015,2/22/2015,F,58,Grippe et palustre,Hospitalisation
+106,2/21/2016,2/25/2016,F,18,choc emotionnel,Hospitalisation
+107,2/22/2016,2/25/2016,M,21,infectieux,Hospitalisation
+108,2/23/2016,2/23/2016,F,18,palmudisme,Hospitalisation
+109,2/24/2016,2/23/2016,M,45,Rhumatisme,Hospitalisation
+110,2/25/2016,2/23/2016,F,6,Rhumatisme,Hospitalisation
+111,2/26/2016,2/25/2016,F,7,choc emotionnel,Hospitalisation
+112,2/27/2016,2/26/2016,F,23,paludisme,Hospitalisation
+113,2/28/2016,2/27/2016,F,45,Rhumatisme,Hospitalisation
+114,3/1/2016,2/27/2016,F,20,Rhumatisme,Hospitalisation
+115,3/2/2016,2/28/2016,F,50,Rhumatisme,Hospitalisation
+116,3/3/2016,2/28/2016,F,48,Rhumatisme,Hospitalisation
+117,3/4/2016,2/27/2016,F,26,Rhumatisme,Hospitalisation
+118,3/5/2017,2/28/2017,F,32,Rhumatisme,Hospitalisation
+119,3/6/2017,2/27/2017,M,19,Palustre,Hospitalisation
+120,3/7/2017,2/28/2017,F,75,palustre,Hospitalisation
+121,3/8/2017,2/28/2017,F,23,infectieux ,Hospitalisation
+122,3/9/2017,3/3/2017,F,50,choc emotionnel,Hospitalisation
+123,3/10/2017,3/3/2017,M,31,paludisme,Hospitalisation
+124,3/11/2017,3/2/2017,M,46,palustre,Hospitalisation
+125,3/12/2018,3/3/2018,M,34,palustre,Hospitalisation
+126,3/13/2018,3/2/2018,F,65,choc emotionnel,Hospitalisation
+127,3/14/2018,3/3/2018,M,46,paludisme,Hospitalisation
+128,3/15/2018,3/4/2018,M,32,choc emotionnel,Hospitalisation
+129,3/16/2018,3/4/2018,F,19,grippe et palustre,Hospitalisation
+130,3/17/2018,3/4/2018,M,26,grippe et palustre,Hospitalisation
+131,3/18/2019,3/5/2019,F,47,crise hypertension,Hospitalisation
+132,3/19/2019,3/5/2019,F,70,Gastrite aigue,Hospitalisation
+133,3/20/2019,3/13/2019,M,20,paludisme,Hospitalisation
+134,3/21/2019,3/17/2019,F,30,Gastrite aigue,Hospitalisation
+135,3/22/2019,3/25/2019,F,22,Gastrite aigue,Hospitalisation
+136,3/23/2019,3/30/2019,F,13,infectieux,Hospitalisation
+137,3/24/2019,5/4/2019,M,46,choc emotionnel,Hospitalisation
+138,3/25/2019,6/12/2019,F,22,choc emotionnel,Hospitalisation
+139,3/26/2019,7/4/2019,M,25,grippe et palustre,Hospitalisation
+140,3/27/2020,7/26/2020,F,25,affebrile,Hospitalisation
+141,3/28/2020,6/15/2020,M,34,paludisme grave,Hospitalisation
+142,3/29/2020,7/15/2020,M,32,paludisme,Hospitalisation
+143,3/30/2020,8/27/2020,F,19,choc emotionnel,Hospitalisation
+144,3/31/2021,7/16/2021,F,22,palustre,Hospitalisation
+145,4/1/2021,7/17/2021,F,30,infectieux,Hospitalisation
+146,4/2/2021,7/19/2021,M,36,paludisme grave,Hospitalisation
+147,4/3/2021,7/16/2021,M,26,choc emotionnel,Hospitalisation
+148,4/4/2021,7/20/2021,F,49,Rhumatisme,Hospitalisation
+149,4/5/2021,7/19/2021,F,48,Rhumatisme,Hospitalisation
+150,4/6/2021,7/18/2021,F,45,Rhumatisme,Hospitalisation
+151,4/7/2021,7/21/2021,M,25,palustre,Hospitalisation
+152,4/8/2021,7/22/2021,M,21,palustre,Hospitalisation
+153,4/9/2010,2/18/2010,M,5,Detresse respiratoire,Pediatrie
+154,4/10/2010,2/4/2010,F,1,Fed,Pediatrie
+155,4/11/2010,2/9/2010,F,5,infectieux,Pediatrie
+156,4/12/2010,2/8/2010,M,4,FCD,Pediatrie
+157,4/13/2010,2/16/2010,F,1.5,infectieux,Pediatrie
+158,4/14/2010,2/17/2010,M,1,Bronchite Aigue,Pediatrie
+159,4/15/2010,2/25/2010,F,1,Enterite febrile ,Pediatrie
+160,4/16/2010,3/1/2010,M,1,Paludisme,Pediatrie
+161,4/17/2010,3/1/2010,F,0.5,fievre de courte duree,Pediatrie
+162,4/18/2010,3/2/2010,M,1,Enterite aigue,Pediatrie
+163,4/19/2010,3/2/2010,M,1,G E A A ,Pediatrie
+164,4/20/2011,3/7/2011,F,1.5,Bronchite Aigue,Pediatrie
+165,4/21/2011,3/11/2011,M,1,Rhume Bronchute,Pediatrie
+166,4/22/2011,3/9/2011,M,0.5,F C D,Pediatrie
+167,4/23/2011,3/9/2011,M,1,G E A  ,Pediatrie
+168,4/24/2011,3/10/2011,F,5,F C D,Pediatrie
+169,4/25/2011,3/12/2011,M,1,infectieux,Pediatrie
+170,4/26/2012,3/12/2012,F,1.5,afebrile,Pediatrie
+171,4/27/2012,3/15/2012,M,2,Bronchite ,Pediatrie
+172,4/28/2012,3/15/2012,F,1,G E A F,Pediatrie
+173,4/29/2012,3/15/2012,M,1,paludisme grave,Pediatrie
+174,4/30/2012,3/17/2012,M,0.5,F C D,Pediatrie
+175,5/1/2012,3/18/2012,F,10,GEA febrile,Pediatrie
+176,5/2/2013,3/17/2013,F,1,F C D,Pediatrie
+177,5/3/2013,3/18/2013,M,4,Grande prematur?,Pediatrie
+178,5/4/2013,3/19/2013,M,5 Jours,I M M,Pediatrie
+179,5/5/2013,3/30/2013,M,1 Jour,G E febrile,Pediatrie
+180,5/6/2013,3/23/2013,M,1,Infectieux,Pediatrie
+181,5/7/2014,3/22/2014,F,1,G E A febrile,Pediatrie
+182,5/8/2014,3/26/2014,F,7,infectieux,Pediatrie
+183,5/9/2014,3/27/2014,F,1,G E A A ,Pediatrie
+184,5/10/2014,3/26/2014,M,1 Jour,I N N,Pediatrie
+185,5/11/2014,3/26/2014,M,1.5,Hypertetique,Pediatrie
+186,5/12/2015,3/29/2015,F,1.5,fiere courte duree,Pediatrie
+187,5/13/2015,3/19/2015,F,14 Jours,Tardive probable,Pediatrie
+188,5/14/2015,3/19/2015,F,1,Detresse respiratoire,Pediatrie
+189,5/15/2015,3/18/2015,M,1,sepsis,Pediatrie
+190,5/16/2015,3/24/2015,F,0.5,Enterite febaine,Pediatrie
+191,5/17/2016,3/24/2016,M,1,G E A A ,Pediatrie
+192,5/18/2016,3/22/2016,M,1,G E A A ,Pediatrie
+193,5/19/2016,3/29/2016,M,1,Palustre grave,Pediatrie
+194,5/20/2016,3/28/2016,F,1,Detresse respiratoire,Pediatrie
+195,5/21/2017,3/29/2017,F,3,Fed,Pediatrie
+196,5/22/2017,3/29/2017,M,4,infectieux,Pediatrie
+197,5/23/2017,3/29/2017,M,3,Bronchite,Pediatrie
+198,5/24/2017,3/30/2017,M,2,fiere courte duree,Pediatrie
+199,5/25/2017,3/31/2017,F,1,fiere courte duree,Pediatrie
+200,5/26/2018,4/1/2018,F,1,Bronchite Aigue,Pediatrie
+201,5/27/2018,4/3/2018,F,3,Bronchite Aigue,Pediatrie
+202,5/28/2018,4/5/2018,M,3,sepsis,Pediatrie
+203,5/29/2018,4/6/2018,F,5,Detresse respiratoire,Pediatrie
+204,5/30/2018,4/7/2018,F,7,afebrite,Pediatrie
+205,5/31/2019,4/8/2019,M,1,F C D,Pediatrie
+206,6/1/2019,4/9/2019,F,3,I N N,Pediatrie
+207,6/2/2019,4/10/2019,M,6,fiere courte duree,Pediatrie
+208,6/3/2019,4/11/2019,M,1,Fed,Pediatrie
+209,6/4/2020,4/9/2020,F,5,Rhume Bronchute,Pediatrie
+210,6/5/2020,4/10/2020,F,7,paludisme,Pediatrie
+211,6/6/2020,4/11/2020,M,3,Detresse respiratoire,Pediatrie
+212,6/7/2020,4/12/2020,F,6,infectieux,Pediatrie
+213,6/8/2021,4/13/2021,M,12,Bronchite Aigue,Pediatrie
+214,6/9/2021,4/14/2021,F,14,fiere courte duree,Pediatrie
+215,6/10/2021,4/18/2021,M,23,Bronchite,Pediatrie
+216,6/11/2021,4/16/2021,F,6,Rhume ,Pediatrie
+217,6/12/2021,4/19/2021,M,3,fievre,Pediatrie
+218,6/13/2021,4/20/2021,F,5,afebrite,Pediatrie
+219,6/14/2021,4/21/2021,M,4,Bronchite,Pediatrie
+220,6/15/2010,6/5/2010,F,20,Avortement incomplet,Gynecologie
+221,6/16/2010,6/6/2010,F,29,avortement ,Gynecologie
+222,6/17/2010,6/11/2010,F,22,MAV,Gynecologie
+223,6/18/2010,6/16/2010,F,21,MAV,Gynecologie
+224,6/19/2010,6/17/2010,F,25,MAV,Gynecologie
+225,6/20/2010,6/18/2010,F,22,Salmonellose,Gynecologie
+226,6/21/2010,6/19/2010,F,29,avortement,Gynecologie
+227,6/22/2010,6/23/2010,F,36,Palusure,Gynecologie
+228,6/23/2010,6/24/2010,F,23,infection couchaire,Gynecologie
+229,6/24/2011,6/25/2011,F,25,infection couchaire,Gynecologie
+230,6/25/2011,6/26/2011,F,24,hygie du trime,Gynecologie
+231,6/26/2011,6/27/2011,F,20,hygie du trime,Gynecologie
+232,6/27/2011,6/28/2011,F,30,hygie du trime,Gynecologie
+233,6/28/2011,1/8/2011,F,23,cyslite aigue probable,Gynecologie
+234,6/29/2011,1/9/2011,F,19,cyslite aigue probable,Gynecologie
+235,6/30/2012,1/10/2012,F,25,cyslite aigue probable,Gynecologie
+236,7/1/2012,1/11/2012,F,18,cyslite aigue probable,Gynecologie
+237,7/2/2012,1/12/2012,F,20,cyslite aigue probable,Gynecologie
+238,7/3/2012,1/15/2012,F,23,cyslite aigue probable,Gynecologie
+239,7/4/2012,1/16/2012,F,29,palut,Gynecologie
+240,7/5/2013,1/17/2013,F,34,malaise gravidique,Gynecologie
+241,7/6/2013,1/18/2013,F,21,G,Gynecologie
+242,7/7/2013,1/19/2013,F,32,MAV,Gynecologie
+243,7/8/2013,1/20/2013,F,23,MAP,Gynecologie
+244,7/9/2013,1/21/2013,F,21,MAP,Gynecologie
+245,7/10/2014,1/23/2014,F,31,Enterite aigue,Gynecologie
+246,7/11/2014,1/24/2014,F,24,malaise gravidique,Gynecologie
+247,7/12/2014,1/25/2014,F,26,malaise gravidique,Gynecologie
+248,7/13/2014,1/26/2014,F,27,malaise gravidique,Gynecologie
+249,7/14/2015,1/27/2021,F,23,malaise gravidique,Gynecologie
+250,7/15/2015,1/28/2021,F,21,malaise gravidique,Gynecologie
+251,7/16/2021,1/29/2021,F,31,malaise gravidique,Gynecologie
+252,7/17/2021,1/30/2021,F,38,malaise gravidique,Gynecologie
+253,7/18/2010,5/12/2010,M,3 jours,Faible poids de naissance,Neonatologie
+254,7/19/2010,5/13/2010,F,2 jours,Faible poids de naissance,Neonatologie
+255,7/20/2010,5/14/2010,F,28 jours,macrosonie,Neonatologie
+256,7/21/2011,5/15/2011,F,5 jours,Faible poids de naissance,Neonatologie
+257,7/22/2011,5/16/2011,M,6 jours,Faible poids de naissance,Neonatologie
+258,7/23/2011,5/9/2011,F,7 jours,Faible poids de naissance,Neonatologie
+259,7/24/2012,5/10/2012,M,8 jours,Faible poids de naissance,Neonatologie
+260,7/25/2012,5/18/2012,F,9 jours,Faible poids de naissance,Neonatologie
+261,7/26/2012,5/19/2012,M,10 jours,risque infectieux,Neonatologie
+262,7/27/2013,5/26/2013,F,11 jours,risque infectieux,Neonatologie
+263,7/28/2013,5/29/2013,F,3 jours,risque infectieux,Neonatologie
+264,7/29/2013,5/30/2013,M,4 jours,Faible poids de naissance,Neonatologie
+265,7/30/2014,5/31/2014,M,5 jours,Faible poids de naissance,Neonatologie
+266,7/31/2014,6/5/2014,M,27 jours,risque infectieux,Neonatologie
+267,8/1/2014,6/25/2014,F,28 jours,risque infectieux,Neonatologie
+268,8/2/2015,6/30/2015,F,17 jours,IN Natale,Neonatologie
+269,8/3/2015,7/9/2015,M,18 jours,hypotrope,Neonatologie
+270,8/4/2015,7/10/2015,M,19 jours,hypotrope,Neonatologie
+271,8/5/2016,7/11/2016,F,13 jours,bebe macroso,Neonatologie
+272,8/6/2016,7/12/2016,F,14 jours,bebe macroso,Neonatologie
+273,8/7/2016,7/13/2016,F,15 jours,bebe macroso,Neonatologie
+274,8/8/2017,7/14/2017,F,16 jours,bebe macroso,Neonatologie
+275,8/9/2017,7/18/2017,F,3 jours,Faible poids de naissance,Neonatologie
+276,8/10/2017,7/19/2017,M,4 jours,IN Natale,Neonatologie
+277,8/11/2018,7/20/2018,M,5 jours,risque infectieux,Neonatologie
+278,8/12/2018,7/21/2018,M,6 jours,risque infectieux,Neonatologie
+279,8/13/2018,7/23/2018,F,7 jours,risque infectieux,Neonatologie
+280,8/14/2019,7/24/2019,F,8 jours,macroso,Neonatologie
+281,8/15/2019,7/25/2019,M,1 Jour,petit premature,Neonatologie
+282,8/16/2019,7/26/2019,F,2 Jour,petit premature,Neonatologie
+283,8/17/2020,7/27/2020,M,28 jours,Asphysie reonatale,Neonatologie
+284,8/18/2020,7/28/2020,F,29 jours,Asphysie reonatale,Neonatologie
+285,8/19/2020,7/29/2020,M,30 jours,Premature Asphysie,Neonatologie
+286,8/20/2021,7/30/2021,F,2 jours,petit premature,Neonatologie
+287,8/21/2021,7/31/2021,M,3 jours,risque infectieux,Neonatologie
+288,8/22/2021,8/1/2021,F,4 jours,bebe macroso,Neonatologie
+289,8/23/2021,8/2/2021,M,5 jours,Faible poids de naissance,Neonatologie
+290,8/24/2021,8/3/2021,M,6 jours,Faible poids de naissance,Neonatologie
+291,8/25/2021,8/4/2021,F,7 jours,macroso,Neonatologie
+292,8/26/2021,2/23/2021,F,18,palmudisme,Hospitalisation
+293,8/27/2021,2/23/2021,M,45,Rhumatisme,Hospitalisation
+294,8/28/2021,2/23/2021,F,6,Rhumatisme,Hospitalisation
+295,8/29/2021,2/25/2021,F,7,choc emotionnel,Hospitalisation
+296,8/30/2021,2/26/2021,F,23,paludisme,Hospitalisation
+297,8/31/2021,2/27/2021,F,45,Rhumatisme,Hospitalisation
+298,9/1/2021,2/27/2021,F,20,Rhumatisme,Hospitalisation
+299,9/2/2021,2/28/2021,F,50,Rhumatisme,Hospitalisation
+300,9/3/2021,2/28/2021,F,48,Rhumatisme,Hospitalisation
+301,9/4/2021,2/27/2021,F,26,Rhumatisme,Hospitalisation
+302,9/5/2021,2/28/2021,F,32,Rhumatisme,Hospitalisation
+303,9/6/2021,2/27/2021,M,19,Palustre,Hospitalisation
+304,9/7/2021,2/28/2021,F,75,palustre,Hospitalisation
+305,9/8/2021,2/28/2021,F,23,infectieux ,Hospitalisation
+306,9/9/2021,3/3/2021,F,50,choc emotionnel,Hospitalisation
+307,9/10/2021,3/3/2021,M,31,paludisme,Hospitalisation
+308,9/11/2021,3/2/2021,M,46,palustre,Hospitalisation
+309,9/12/2021,3/3/2021,M,34,palustre,Hospitalisation
+310,9/13/2021,7/3/2021,M,27,Polytraumatique,Hospitalisation
+311,9/14/2021,7/6/2021,M,26,palustre,Hospitalisation
+312,9/15/2021,7/7/2021,F,20,Gastrite aigue,Hospitalisation
+313,9/16/2021,7/12/2021,F,42,palustre,Hospitalisation
+314,9/17/2021,7/12/2021,F,46,KOD,Hospitalisation
+315,9/18/2021,7/14/2021,F,20,choc emotionnel,Hospitalisation
+316,9/19/2021,7/9/2021,F,35,Traumatisme du bassin,Hospitalisation
+317,9/20/2021,7/15/2021,F,17,dyspeptique et choc emotionnel,Hospitalisation
+318,9/21/2021,7/13/2021,M,20,Demence serile,Hospitalisation
+319,9/22/2021,7/16/2021,M,28,infectieux,Hospitalisation
+320,9/23/2021,7/18/2021,F,22,Prositose,Hospitalisation
+321,1/30/2014,1/18/2014,M,25,ulcere gasto,Hospitalisation
+322,1/31/2014,1/21/2014,F,51,choc emotionnel,Hospitalisation
+323,2/1/2014,1/21/2014,F,46,paludisme grave,Hospitalisation
+324,2/2/2014,1/22/2014,M,17,choc emotionnel,Hospitalisation
+325,2/3/2014,1/23/2014,F,32,paludisme,Hospitalisation
+326,2/4/2014,1/22/2014,M,19,infectieux,Hospitalisation
+327,2/5/2014,2/8/2014,M,44,infectieux,Hospitalisation
+328,1/30/2014,1/18/2014,M,25,ulcere gasto,Hospitalisation
+329,1/31/2014,1/21/2014,F,51,choc emotionnel,Hospitalisation
+330,2/1/2014,1/21/2014,F,46,paludisme grave,Hospitalisation
+331,2/2/2014,1/22/2014,M,17,choc emotionnel,Hospitalisation
+332,2/3/2014,1/23/2014,F,32,paludisme,Hospitalisation
+333,2/4/2014,1/22/2014,M,19,infectieux,Hospitalisation
+334,2/5/2014,2/8/2014,M,44,infectieux,Hospitalisation
+335,1/30/2014,1/18/2014,M,25,ulcere gasto,Hospitalisation
+336,1/31/2014,1/21/2014,F,51,choc emotionnel,Hospitalisation
+337,2/1/2014,1/21/2014,F,46,paludisme grave,Hospitalisation
+338,2/2/2014,1/22/2014,M,17,choc emotionnel,Hospitalisation
+339,2/3/2014,1/23/2014,F,32,paludisme,Hospitalisation
+340,2/4/2014,1/22/2014,M,19,infectieux,Hospitalisation
+341,2/5/2014,2/8/2014,M,44,infectieux,Hospitalisation
+342,2/9/2015,2/6/2015,M,75,encepholite aigue,Hospitalisation
+343,2/10/2015,2/12/2015,F,23,fievre de courte duree,Hospitalisation
+344,2/11/2015,2/12/2015,M,13,obstobeptique,Hospitalisation
+345,2/12/2015,2/12/2015,F,46,infectieux,Hospitalisation
+346,2/13/2015,2/18/2015,F,34,infectieux,Hospitalisation
+347,2/14/2015,2/15/2015,F,50,infectieux,Hospitalisation
+348,2/15/2015,2/13/2015,F,31,choc emotionnel,Hospitalisation
+349,2/16/2015,2/16/2015,F,65,palustre,Hospitalisation
+350,2/17/2015,2/18/2015,F,46,palustre,Hospitalisation
+351,2/18/2015,2/16/2015,M,20,particolis,Hospitalisation
+352,2/19/2015,2/23/2015,F,45,GEA,Hospitalisation
+353,2/21/2016,2/25/2016,F,18,choc emotionnel,Hospitalisation
+354,2/22/2016,2/25/2016,M,21,infectieux,Hospitalisation
+355,2/23/2016,2/23/2016,F,18,palmudisme,Hospitalisation
+356,2/24/2016,2/23/2016,M,45,Rhumatisme,Hospitalisation
+357,2/25/2016,2/23/2016,F,6,Rhumatisme,Hospitalisation
+358,2/26/2016,2/25/2016,F,7,choc emotionnel,Hospitalisation
+359,2/27/2016,2/26/2016,F,23,paludisme,Hospitalisation
+360,2/28/2016,2/27/2016,F,45,Rhumatisme,Hospitalisation
+361,3/1/2016,2/27/2016,F,20,Rhumatisme,Hospitalisation
+362,3/2/2016,2/28/2016,F,50,Rhumatisme,Hospitalisation
+363,2/21/2016,2/25/2016,F,18,choc emotionnel,Hospitalisation
+364,2/22/2016,2/25/2016,M,21,infectieux,Hospitalisation
+365,2/23/2016,2/23/2016,F,18,palmudisme,Hospitalisation
+366,2/24/2016,2/23/2016,M,45,Rhumatisme,Hospitalisation
+367,2/25/2016,2/23/2016,F,6,Rhumatisme,Hospitalisation
+368,2/26/2016,2/25/2016,F,7,choc emotionnel,Hospitalisation
+369,2/27/2016,2/26/2016,F,23,paludisme,Hospitalisation
+370,2/28/2016,2/27/2016,F,45,Rhumatisme,Hospitalisation
+371,3/1/2016,2/27/2016,F,20,Rhumatisme,Hospitalisation
+372,3/2/2016,2/28/2016,F,50,Rhumatisme,Hospitalisation
+373,3/5/2017,2/28/2017,F,32,Rhumatisme,Hospitalisation
+374,3/6/2017,2/27/2017,M,19,Palustre,Hospitalisation
+375,3/7/2017,2/28/2017,F,75,palustre,Hospitalisation
+376,3/8/2017,2/28/2017,F,23,infectieux ,Hospitalisation
+377,3/9/2017,3/3/2017,F,50,choc emotionnel,Hospitalisation
+378,3/10/2017,3/3/2017,M,31,paludisme,Hospitalisation
+379,3/11/2017,3/2/2017,M,46,palustre,Hospitalisation
+380,3/5/2017,2/28/2017,F,32,Rhumatisme,Hospitalisation
+381,3/6/2017,2/27/2017,M,19,Palustre,Hospitalisation
+382,3/7/2017,2/28/2017,F,75,palustre,Hospitalisation
+383,3/8/2017,2/28/2017,F,23,infectieux ,Hospitalisation
+384,3/9/2017,3/3/2017,F,50,choc emotionnel,Hospitalisation
+385,3/10/2017,3/3/2017,M,31,paludisme,Hospitalisation
+386,3/11/2017,3/2/2017,M,46,palustre,Hospitalisation
+387,3/5/2017,2/28/2017,F,32,Rhumatisme,Hospitalisation
+388,3/6/2017,2/27/2017,M,19,Palustre,Hospitalisation
+389,3/7/2017,2/28/2017,F,75,palustre,Hospitalisation
+390,3/8/2017,2/28/2017,F,23,infectieux ,Hospitalisation
+391,3/9/2017,3/3/2017,F,50,choc emotionnel,Hospitalisation
+392,3/10/2017,3/3/2017,M,31,paludisme,Hospitalisation
+393,3/11/2017,3/2/2017,M,46,palustre,Hospitalisation
+394,3/12/2018,3/3/2018,M,34,palustre,Hospitalisation
+395,3/13/2018,3/2/2018,F,65,choc emotionnel,Hospitalisation
+396,3/14/2018,3/3/2018,M,46,paludisme,Hospitalisation
+397,3/15/2018,3/4/2018,M,32,choc emotionnel,Hospitalisation
+398,3/16/2018,3/4/2018,F,19,grippe et palustre,Hospitalisation
+399,3/17/2018,3/4/2018,M,26,grippe et palustre,Hospitalisation
+400,3/12/2018,3/3/2018,M,34,palustre,Hospitalisation
+401,3/13/2018,3/2/2018,F,65,choc emotionnel,Hospitalisation
+402,3/14/2018,3/3/2018,M,46,paludisme,Hospitalisation
+403,3/15/2018,3/4/2018,M,32,choc emotionnel,Hospitalisation
+404,3/16/2018,3/4/2018,F,19,grippe et palustre,Hospitalisation
+405,3/17/2018,3/4/2018,M,26,grippe et palustre,Hospitalisation
+406,3/12/2018,3/3/2018,M,34,palustre,Hospitalisation
+407,3/13/2018,3/2/2018,F,65,choc emotionnel,Hospitalisation
+408,3/14/2018,3/3/2018,M,46,paludisme,Hospitalisation
+409,3/15/2018,3/4/2018,M,32,choc emotionnel,Hospitalisation
+410,3/16/2018,3/4/2018,F,19,grippe et palustre,Hospitalisation
+411,3/17/2018,3/4/2018,M,26,grippe et palustre,Hospitalisation
+412,3/12/2018,3/3/2018,M,34,palustre,Hospitalisation
+413,3/13/2018,3/2/2018,F,65,choc emotionnel,Hospitalisation
+414,3/14/2018,3/3/2018,M,46,paludisme,Hospitalisation
+415,3/15/2018,3/4/2018,M,32,choc emotionnel,Hospitalisation
+416,3/16/2018,3/4/2018,F,19,grippe et palustre,Hospitalisation
+417,3/17/2018,3/4/2018,M,26,grippe et palustre,Hospitalisation
+418,3/18/2019,3/5/2019,F,47,crise hypertension,Hospitalisation
+419,3/19/2019,3/5/2019,F,70,Gastrite aigue,Hospitalisation
+420,3/20/2019,3/13/2019,M,20,paludisme,Hospitalisation
+421,3/21/2019,3/17/2019,F,30,Gastrite aigue,Hospitalisation
+422,3/22/2019,3/25/2019,F,22,Gastrite aigue,Hospitalisation
+423,3/23/2019,3/30/2019,F,13,infectieux,Hospitalisation
+424,3/24/2019,5/4/2019,M,46,choc emotionnel,Hospitalisation
+425,3/25/2019,6/12/2019,F,22,choc emotionnel,Hospitalisation
+426,3/26/2019,7/4/2019,M,25,grippe et palustre,Hospitalisation
+427,3/18/2019,3/5/2019,F,47,crise hypertension,Hospitalisation
+428,3/19/2019,3/5/2019,F,70,Gastrite aigue,Hospitalisation
+429,3/20/2019,3/13/2019,M,20,paludisme,Hospitalisation
+430,3/21/2019,3/17/2019,F,30,Gastrite aigue,Hospitalisation
+431,3/22/2019,3/25/2019,F,22,Gastrite aigue,Hospitalisation
+432,3/23/2019,3/30/2019,F,13,infectieux,Hospitalisation
+433,3/24/2019,5/4/2019,M,46,choc emotionnel,Hospitalisation
+434,3/25/2019,6/12/2019,F,22,choc emotionnel,Hospitalisation
+435,3/26/2019,7/4/2019,M,25,grippe et palustre,Hospitalisation
+436,3/18/2019,3/5/2019,F,47,crise hypertension,Hospitalisation
+437,3/19/2019,3/5/2019,F,70,Gastrite aigue,Hospitalisation
+438,3/20/2019,3/13/2019,M,20,paludisme,Hospitalisation
+439,3/21/2019,3/17/2019,F,30,Gastrite aigue,Hospitalisation
+440,3/22/2019,3/25/2019,F,22,Gastrite aigue,Hospitalisation
+441,3/23/2019,3/30/2019,F,13,infectieux,Hospitalisation
+442,3/24/2019,5/4/2019,M,46,choc emotionnel,Hospitalisation
+443,3/25/2019,6/12/2019,F,22,choc emotionnel,Hospitalisation
+444,3/26/2019,7/4/2019,M,25,grippe et palustre,Hospitalisation
+445,3/27/2020,7/26/2020,F,25,affebrile,Hospitalisation
+446,3/28/2020,6/15/2020,M,34,paludisme grave,Hospitalisation
+447,3/29/2020,7/15/2020,M,32,paludisme,Hospitalisation
+448,3/30/2020,8/27/2020,F,19,choc emotionnel,Hospitalisation
+449,3/31/2021,7/16/2021,F,22,palustre,Hospitalisation
+450,3/27/2020,7/26/2020,F,25,affebrile,Hospitalisation
+451,3/28/2020,6/15/2020,M,34,paludisme grave,Hospitalisation
+452,3/29/2020,7/15/2020,M,32,paludisme,Hospitalisation
+453,3/30/2020,8/27/2020,F,19,choc emotionnel,Hospitalisation
+454,3/31/2021,7/16/2021,F,22,palustre,Hospitalisation
+455,3/27/2020,7/26/2020,F,25,affebrile,Hospitalisation
+456,3/28/2020,6/15/2020,M,34,paludisme grave,Hospitalisation
+457,3/29/2020,7/15/2020,M,32,paludisme,Hospitalisation
+458,3/30/2020,8/27/2020,F,19,choc emotionnel,Hospitalisation
+459,3/31/2021,7/16/2021,F,22,palustre,Hospitalisation
+460,3/27/2020,7/26/2020,F,25,affebrile,Hospitalisation
+461,3/28/2020,6/15/2020,M,34,paludisme grave,Hospitalisation
+462,3/29/2020,7/15/2020,M,32,paludisme,Hospitalisation
+463,3/30/2020,8/27/2020,F,19,choc emotionnel,Hospitalisation
+464,3/31/2021,7/16/2021,F,22,palustre,Hospitalisation
+465,4/9/2010,2/18/2010,M,5,Detresse respiratoire,Pediatrie
+466,4/10/2010,2/4/2010,F,1,Fed,Pediatrie
+467,4/11/2010,2/9/2010,F,5,infectieux,Pediatrie
+468,4/12/2010,2/8/2010,M,4,FCD,Pediatrie
+469,4/13/2010,2/16/2010,F,1.5,infectieux,Pediatrie
+470,4/14/2010,2/17/2010,M,1,Bronchite Aigue,Pediatrie
+471,4/15/2010,2/25/2010,F,1,Enterite febrile ,Pediatrie
+472,4/16/2010,3/1/2010,M,1,Paludisme,Pediatrie
+473,4/17/2010,3/1/2010,F,0.5,fievre de courte duree,Pediatrie
+474,4/18/2010,3/2/2010,M,1,Enterite aigue,Pediatrie
+475,4/19/2010,3/2/2010,M,1,G E A A ,Pediatrie
+476,4/9/2010,2/18/2010,M,5,Detresse respiratoire,Pediatrie
+477,4/10/2010,2/4/2010,F,1,Fed,Pediatrie
+478,4/11/2010,2/9/2010,F,5,infectieux,Pediatrie
+479,4/12/2010,2/8/2010,M,4,FCD,Pediatrie
+480,4/13/2010,2/16/2010,F,1.5,infectieux,Pediatrie
+481,4/14/2010,2/17/2010,M,1,Bronchite Aigue,Pediatrie
+482,4/15/2010,2/25/2010,F,1,Enterite febrile ,Pediatrie
+483,4/16/2010,3/1/2010,M,1,Paludisme,Pediatrie
+484,4/17/2010,3/1/2010,F,0.5,fievre de courte duree,Pediatrie
+485,4/18/2010,3/2/2010,M,1,Enterite aigue,Pediatrie
+486,4/19/2010,3/2/2010,M,1,G E A A ,Pediatrie
+487,4/9/2010,2/18/2010,M,5,Detresse respiratoire,Pediatrie
+488,4/10/2010,2/4/2010,F,1,Fed,Pediatrie
+489,4/11/2010,2/9/2010,F,5,infectieux,Pediatrie
+490,4/12/2010,2/8/2010,M,4,FCD,Pediatrie
+491,4/13/2010,2/16/2010,F,1.5,infectieux,Pediatrie
+492,4/14/2010,2/17/2010,M,1,Bronchite Aigue,Pediatrie
+493,4/15/2010,2/25/2010,F,1,Enterite febrile ,Pediatrie
+494,4/16/2010,3/1/2010,M,1,Paludisme,Pediatrie
+495,4/17/2010,3/1/2010,F,0.5,fievre de courte duree,Pediatrie
+496,4/18/2010,3/2/2010,M,1,Enterite aigue,Pediatrie
+497,4/19/2010,3/2/2010,M,1,G E A A ,Pediatrie
+498,4/20/2011,3/7/2011,F,1.5,Bronchite Aigue,Pediatrie
+499,4/21/2011,3/11/2011,M,1,Rhume Bronchute,Pediatrie
+500,4/22/2011,3/9/2011,M,0.5,F C D,Pediatrie
+501,4/23/2011,3/9/2011,M,1,G E A  ,Pediatrie
+502,4/24/2011,3/10/2011,F,5,F C D,Pediatrie
+503,4/25/2011,3/12/2011,M,1,infectieux,Pediatrie
+504,4/20/2011,3/7/2011,F,1.5,Bronchite Aigue,Pediatrie
+505,4/21/2011,3/11/2011,M,1,Rhume Bronchute,Pediatrie
+506,4/22/2011,3/9/2011,M,0.5,F C D,Pediatrie
+507,4/23/2011,3/9/2011,M,1,G E A  ,Pediatrie
+508,4/24/2011,3/10/2011,F,5,F C D,Pediatrie
+509,4/25/2011,3/12/2011,M,1,infectieux,Pediatrie
+510,4/20/2011,3/7/2011,F,1.5,Bronchite Aigue,Pediatrie
+511,4/21/2011,3/11/2011,M,1,Rhume Bronchute,Pediatrie
+512,4/22/2011,3/9/2011,M,0.5,F C D,Pediatrie
+513,4/23/2011,3/9/2011,M,1,G E A  ,Pediatrie
+514,4/24/2011,3/10/2011,F,5,F C D,Pediatrie
+515,4/25/2011,3/12/2011,M,1,infectieux,Pediatrie
+516,4/26/2012,3/12/2012,F,1.5,afebrile,Pediatrie
+517,4/27/2012,3/15/2012,M,2,Bronchite ,Pediatrie
+518,4/28/2012,3/15/2012,F,1,G E A F,Pediatrie
+519,4/29/2012,3/15/2012,M,1,paludisme grave,Pediatrie
+520,4/30/2012,3/17/2012,M,0.5,F C D,Pediatrie
+521,5/1/2012,3/18/2012,F,10,GEA febrile,Pediatrie
+522,4/26/2012,3/12/2012,F,1.5,afebrile,Pediatrie
+523,4/27/2012,3/15/2012,M,2,Bronchite ,Pediatrie
+524,4/28/2012,3/15/2012,F,1,G E A F,Pediatrie
+525,4/29/2012,3/15/2012,M,1,paludisme grave,Pediatrie
+526,4/30/2012,3/17/2012,M,0.5,F C D,Pediatrie
+527,5/1/2012,3/18/2012,F,10,GEA febrile,Pediatrie
+528,4/26/2012,3/12/2012,F,1.5,afebrile,Pediatrie
+529,4/27/2012,3/15/2012,M,2,Bronchite ,Pediatrie
+530,4/28/2012,3/15/2012,F,1,G E A F,Pediatrie
+531,4/29/2012,3/15/2012,M,1,paludisme grave,Pediatrie
+532,4/30/2012,3/17/2012,M,0.5,F C D,Pediatrie
+533,5/1/2012,3/18/2012,F,10,GEA febrile,Pediatrie
+534,5/2/2013,3/17/2013,F,1,F C D,Pediatrie
+535,5/3/2013,3/18/2013,M,4,Grande prematur?,Pediatrie
+536,5/4/2013,3/19/2013,M,5 Jours,I M M,Pediatrie
+537,5/5/2013,3/30/2013,M,1 Jour,G E febrile,Pediatrie
+538,5/6/2013,3/23/2013,M,1,Infectieux,Pediatrie
+539,5/2/2013,3/17/2013,F,1,F C D,Pediatrie
+540,5/3/2013,3/18/2013,M,4,Grande prematur?,Pediatrie
+541,5/4/2013,3/19/2013,M,5 Jours,I M M,Pediatrie
+542,5/5/2013,3/30/2013,M,1 Jour,G E febrile,Pediatrie
+543,5/6/2013,3/23/2013,M,1,Infectieux,Pediatrie
+544,5/7/2014,3/22/2014,F,1,G E A febrile,Pediatrie
+545,5/8/2014,3/26/2014,F,7,infectieux,Pediatrie
+546,5/9/2014,3/27/2014,F,1,G E A A ,Pediatrie
+547,5/10/2014,3/26/2014,M,1 Jour,I N N,Pediatrie
+548,5/11/2014,3/26/2014,M,1.5,Hypertetique,Pediatrie
+549,5/7/2014,3/22/2014,F,1,G E A febrile,Pediatrie
+550,5/8/2014,3/26/2014,F,7,infectieux,Pediatrie
+551,5/9/2014,3/27/2014,F,1,G E A A ,Pediatrie
+552,5/10/2014,3/26/2014,M,1 Jour,I N N,Pediatrie
+553,5/11/2014,3/26/2014,M,1.5,Hypertetique,Pediatrie
+554,5/12/2015,3/29/2015,F,1.5,fiere courte duree,Pediatrie
+555,5/13/2015,3/19/2015,F,14 Jours,Tardive probable,Pediatrie
+556,5/14/2015,3/19/2015,F,1,Detresse respiratoire,Pediatrie
+557,5/15/2015,3/18/2015,M,1,sepsis,Pediatrie
+558,5/16/2015,3/24/2015,F,0.5,Enterite febaine,Pediatrie
+559,5/12/2015,3/29/2015,F,1.5,fiere courte duree,Pediatrie
+560,5/13/2015,3/19/2015,F,14 Jours,Tardive probable,Pediatrie
+561,5/14/2015,3/19/2015,F,1,Detresse respiratoire,Pediatrie
+562,5/15/2015,3/18/2015,M,1,sepsis,Pediatrie
+563,5/16/2015,3/24/2015,F,0.5,Enterite febaine,Pediatrie
+564,5/17/2016,3/24/2016,M,1,G E A A ,Pediatrie
+565,5/18/2016,3/22/2016,M,1,G E A A ,Pediatrie
+566,5/19/2016,3/29/2016,M,1,Palustre grave,Pediatrie
+567,5/20/2016,3/28/2016,F,1,Detresse respiratoire,Pediatrie
+568,5/17/2016,3/24/2016,M,1,G E A A ,Pediatrie
+569,5/18/2016,3/22/2016,M,1,G E A A ,Pediatrie
+570,5/19/2016,3/29/2016,M,1,Palustre grave,Pediatrie
+571,5/20/2016,3/28/2016,F,1,Detresse respiratoire,Pediatrie
+572,5/17/2016,3/24/2016,M,1,G E A A ,Pediatrie
+573,5/18/2016,3/22/2016,M,1,G E A A ,Pediatrie
+574,5/19/2016,3/29/2016,M,1,Palustre grave,Pediatrie
+575,5/20/2016,3/28/2016,F,1,Detresse respiratoire,Pediatrie
+576,5/21/2017,3/29/2017,F,3,Fed,Pediatrie
+577,5/22/2017,3/29/2017,M,4,infectieux,Pediatrie
+578,5/23/2017,3/29/2017,M,3,Bronchite,Pediatrie
+579,5/24/2017,3/30/2017,M,2,fiere courte duree,Pediatrie
+580,5/25/2017,3/31/2017,F,1,fiere courte duree,Pediatrie
+581,5/21/2017,3/29/2017,F,3,Fed,Pediatrie
+582,5/22/2017,3/29/2017,M,4,infectieux,Pediatrie
+583,5/23/2017,3/29/2017,M,3,Bronchite,Pediatrie
+584,5/24/2017,3/30/2017,M,2,fiere courte duree,Pediatrie
+585,5/25/2017,3/31/2017,F,1,fiere courte duree,Pediatrie
+586,5/21/2017,3/29/2017,F,3,Fed,Pediatrie
+587,5/22/2017,3/29/2017,M,4,infectieux,Pediatrie
+588,5/23/2017,3/29/2017,M,3,Bronchite,Pediatrie
+589,5/24/2017,3/30/2017,M,2,fiere courte duree,Pediatrie
+590,5/25/2017,3/31/2017,F,1,fiere courte duree,Pediatrie
+591,5/26/2018,4/1/2018,F,1,Bronchite Aigue,Pediatrie
+592,5/27/2018,4/3/2018,F,3,Bronchite Aigue,Pediatrie
+593,5/28/2018,4/5/2018,M,3,sepsis,Pediatrie
+594,5/29/2018,4/6/2018,F,5,Detresse respiratoire,Pediatrie
+595,5/30/2018,4/7/2018,F,7,afebrite,Pediatrie
+596,5/26/2018,4/1/2018,F,1,Bronchite Aigue,Pediatrie
+597,5/27/2018,4/3/2018,F,3,Bronchite Aigue,Pediatrie
+598,5/28/2018,4/5/2018,M,3,sepsis,Pediatrie
+599,5/29/2018,4/6/2018,F,5,Detresse respiratoire,Pediatrie
+600,5/30/2018,4/7/2018,F,7,afebrite,Pediatrie
+601,5/26/2018,4/1/2018,F,1,Bronchite Aigue,Pediatrie
+602,5/27/2018,4/3/2018,F,3,Bronchite Aigue,Pediatrie
+603,5/28/2018,4/5/2018,M,3,sepsis,Pediatrie
+604,5/29/2018,4/6/2018,F,5,Detresse respiratoire,Pediatrie
+605,5/30/2018,4/7/2018,F,7,afebrite,Pediatrie
+606,5/31/2019,4/8/2019,M,1,F C D,Pediatrie
+607,6/1/2019,4/9/2019,F,3,I N N,Pediatrie
+608,6/2/2019,4/10/2019,M,6,fiere courte duree,Pediatrie
+609,6/3/2019,4/11/2019,M,1,Fed,Pediatrie
+610,5/31/2019,4/8/2019,M,1,F C D,Pediatrie
+611,6/1/2019,4/9/2019,F,3,I N N,Pediatrie
+612,6/2/2019,4/10/2019,M,6,fiere courte duree,Pediatrie
+613,6/3/2019,4/11/2019,M,1,Fed,Pediatrie
+614,5/31/2019,4/8/2019,M,1,F C D,Pediatrie
+615,6/1/2019,4/9/2019,F,3,I N N,Pediatrie
+616,6/2/2019,4/10/2019,M,6,fiere courte duree,Pediatrie
+617,6/3/2019,4/11/2019,M,1,Fed,Pediatrie
+618,5/31/2019,4/8/2019,M,1,F C D,Pediatrie
+619,6/1/2019,4/9/2019,F,3,I N N,Pediatrie
+620,6/2/2019,4/10/2019,M,6,fiere courte duree,Pediatrie
+621,6/3/2019,4/11/2019,M,1,Fed,Pediatrie
+622,6/4/2020,4/9/2020,F,5,Rhume Bronchute,Pediatrie
+623,6/5/2020,4/10/2020,F,7,paludisme,Pediatrie
+624,6/6/2020,4/11/2020,M,3,Detresse respiratoire,Pediatrie
+625,6/7/2020,4/12/2020,F,6,infectieux,Pediatrie
+626,6/4/2020,4/9/2020,F,5,Rhume Bronchute,Pediatrie
+627,6/5/2020,4/10/2020,F,7,paludisme,Pediatrie
+628,6/6/2020,4/11/2020,M,3,Detresse respiratoire,Pediatrie
+629,6/7/2020,4/12/2020,F,6,infectieux,Pediatrie
+630,6/4/2020,4/9/2020,F,5,Rhume Bronchute,Pediatrie
+631,6/5/2020,4/10/2020,F,7,paludisme,Pediatrie
+632,6/6/2020,4/11/2020,M,3,Detresse respiratoire,Pediatrie
+633,6/7/2020,4/12/2020,F,6,infectieux,Pediatrie
+634,6/4/2020,4/9/2020,F,5,Rhume Bronchute,Pediatrie
+635,6/5/2020,4/10/2020,F,7,paludisme,Pediatrie
+636,6/6/2020,4/11/2020,M,3,Detresse respiratoire,Pediatrie
+637,6/7/2020,4/12/2020,F,6,infectieux,Pediatrie
+638,6/8/2021,4/13/2021,M,12,Bronchite Aigue,Pediatrie
+639,6/9/2021,4/14/2021,F,14,fiere courte duree,Pediatrie
+640,6/10/2021,4/18/2021,M,23,Bronchite,Pediatrie
+641,6/11/2021,4/16/2021,F,6,Rhume ,Pediatrie
+642,6/12/2021,4/19/2021,M,3,fievre,Pediatrie
+643,6/13/2021,4/20/2021,F,5,afebrite,Pediatrie
+644,6/14/2021,4/21/2021,M,4,Bronchite,Pediatrie
+645,6/15/2021,6/5/2021,F,20,Avortement incomplet,Gynecologie
+646,6/16/2021,6/6/2021,F,29,avortement ,Gynecologie
+647,6/15/2010,6/5/2010,F,20,Avortement incomplet,Gynecologie
+648,6/16/2010,6/6/2010,F,29,avortement ,Gynecologie
+649,6/17/2010,6/11/2010,F,22,MAV,Gynecologie
+650,6/18/2010,6/16/2010,F,21,MAV,Gynecologie
+651,6/19/2010,6/17/2010,F,25,MAV,Gynecologie
+652,6/20/2010,6/18/2010,F,22,Salmonellose,Gynecologie
+653,6/21/2010,6/19/2010,F,29,avortement,Gynecologie
+654,6/22/2010,6/23/2010,F,36,Palusure,Gynecologie
+655,6/23/2010,6/24/2010,F,23,infection couchaire,Gynecologie
+656,6/15/2010,6/5/2010,F,20,Avortement incomplet,Gynecologie
+657,6/16/2010,6/6/2010,F,29,avortement ,Gynecologie
+658,6/17/2010,6/11/2010,F,22,MAV,Gynecologie
+659,6/18/2010,6/16/2010,F,21,MAV,Gynecologie
+660,6/19/2010,6/17/2010,F,25,MAV,Gynecologie
+661,6/20/2010,6/18/2010,F,22,Salmonellose,Gynecologie
+662,6/21/2010,6/19/2010,F,29,avortement,Gynecologie
+663,6/22/2010,6/23/2010,F,36,Palusure,Gynecologie
+664,6/23/2010,6/24/2010,F,23,infection couchaire,Gynecologie
+665,6/15/2010,6/5/2010,F,20,Avortement incomplet,Gynecologie
+666,6/16/2010,6/6/2010,F,29,avortement ,Gynecologie
+667,6/17/2010,6/11/2010,F,22,MAV,Gynecologie
+668,6/18/2010,6/16/2010,F,21,MAV,Gynecologie
+669,6/19/2010,6/17/2010,F,25,MAV,Gynecologie
+670,6/20/2010,6/18/2010,F,22,Salmonellose,Gynecologie
+671,6/21/2010,6/19/2010,F,29,avortement,Gynecologie
+672,6/22/2010,6/23/2010,F,36,Palusure,Gynecologie
+673,6/23/2010,6/24/2010,F,23,infection couchaire,Gynecologie
+674,6/24/2011,6/25/2011,F,25,infection couchaire,Gynecologie
+675,6/25/2011,6/26/2011,F,24,hygie du trime,Gynecologie
+676,6/26/2011,6/27/2011,F,20,hygie du trime,Gynecologie
+677,6/27/2011,6/28/2011,F,30,hygie du trime,Gynecologie
+678,6/28/2011,1/8/2011,F,23,cyslite aigue probable,Gynecologie
+679,6/29/2011,1/9/2011,F,19,cyslite aigue probable,Gynecologie
+680,6/24/2011,6/25/2011,F,25,infection couchaire,Gynecologie
+681,6/25/2011,6/26/2011,F,24,hygie du trime,Gynecologie
+682,6/26/2011,6/27/2011,F,20,hygie du trime,Gynecologie
+683,6/27/2011,6/28/2011,F,30,hygie du trime,Gynecologie
+684,6/28/2011,1/8/2011,F,23,cyslite aigue probable,Gynecologie
+685,6/29/2011,1/9/2011,F,19,cyslite aigue probable,Gynecologie
+686,6/24/2011,6/25/2011,F,25,infection couchaire,Gynecologie
+687,6/25/2011,6/26/2011,F,24,hygie du trime,Gynecologie
+688,6/26/2011,6/27/2011,F,20,hygie du trime,Gynecologie
+689,6/27/2011,6/28/2011,F,30,hygie du trime,Gynecologie
+690,6/28/2011,1/8/2011,F,23,cyslite aigue probable,Gynecologie
+691,6/29/2011,1/9/2011,F,19,cyslite aigue probable,Gynecologie
+692,6/30/2012,1/10/2012,F,25,cyslite aigue probable,Gynecologie
+693,7/1/2012,1/11/2012,F,18,cyslite aigue probable,Gynecologie
+694,7/2/2012,1/12/2012,F,20,cyslite aigue probable,Gynecologie
+695,7/3/2012,1/15/2012,F,23,cyslite aigue probable,Gynecologie
+696,7/4/2012,1/16/2012,F,29,palut,Gynecologie
+697,6/30/2012,1/10/2012,F,25,cyslite aigue probable,Gynecologie
+698,7/1/2012,1/11/2012,F,18,cyslite aigue probable,Gynecologie
+699,7/2/2012,1/12/2012,F,20,cyslite aigue probable,Gynecologie
+700,7/3/2012,1/15/2012,F,23,cyslite aigue probable,Gynecologie
+701,7/4/2012,1/16/2012,F,29,palut,Gynecologie
+702,6/30/2012,1/10/2012,F,25,cyslite aigue probable,Gynecologie
+703,7/1/2012,1/11/2012,F,18,cyslite aigue probable,Gynecologie
+704,7/2/2012,1/12/2012,F,20,cyslite aigue probable,Gynecologie
+705,7/3/2012,1/15/2012,F,23,cyslite aigue probable,Gynecologie
+706,7/4/2012,1/16/2012,F,29,palut,Gynecologie
+707,7/5/2013,1/17/2013,F,34,malaise gravidique,Gynecologie
+708,7/6/2013,1/18/2013,F,21,G,Gynecologie
+709,7/7/2013,1/19/2013,F,32,MAV,Gynecologie
+710,7/8/2013,1/20/2013,F,23,MAP,Gynecologie
+711,7/9/2013,1/21/2013,F,21,MAP,Gynecologie
+712,7/5/2013,1/17/2013,F,34,malaise gravidique,Gynecologie
+713,7/6/2013,1/18/2013,F,21,G,Gynecologie
+714,7/7/2013,1/19/2013,F,32,MAV,Gynecologie
+715,7/8/2013,1/20/2013,F,23,MAP,Gynecologie
+716,7/9/2013,1/21/2013,F,21,MAP,Gynecologie
+717,7/5/2013,1/17/2013,F,34,malaise gravidique,Gynecologie
+718,7/6/2013,1/18/2013,F,21,G,Gynecologie
+719,7/7/2013,1/19/2013,F,32,MAV,Gynecologie
+720,7/8/2013,1/20/2013,F,23,MAP,Gynecologie
+721,7/9/2013,1/21/2013,F,21,MAP,Gynecologie
+722,7/10/2014,1/23/2014,F,31,Enterite aigue,Gynecologie
+723,7/11/2014,1/24/2014,F,24,malaise gravidique,Gynecologie
+724,7/12/2014,1/25/2014,F,26,malaise gravidique,Gynecologie
+725,7/13/2014,1/26/2014,F,27,malaise gravidique,Gynecologie
+726,7/10/2014,1/23/2014,F,31,Enterite aigue,Gynecologie
+727,7/11/2014,1/24/2014,F,24,malaise gravidique,Gynecologie
+728,7/12/2014,1/25/2014,F,26,malaise gravidique,Gynecologie
+729,7/13/2014,1/26/2014,F,27,malaise gravidique,Gynecologie
+730,7/10/2014,1/23/2014,F,31,Enterite aigue,Gynecologie
+731,7/11/2014,1/24/2014,F,24,malaise gravidique,Gynecologie
+732,7/12/2014,1/25/2014,F,26,malaise gravidique,Gynecologie
+733,7/13/2014,1/26/2014,F,27,malaise gravidique,Gynecologie
+734,7/13/2014,1/26/2014,F,27,malaise gravidique,Gynecologie
+735,7/14/2015,1/27/2021,F,23,malaise gravidique,Gynecologie
+736,7/15/2015,1/28/2021,F,21,malaise gravidique,Gynecologie
+737,7/16/2021,1/29/2021,F,31,malaise gravidique,Gynecologie
+738,7/17/2021,1/30/2021,F,38,malaise gravidique,Gynecologie
+739,7/13/2014,1/26/2014,F,27,malaise gravidique,Gynecologie
+740,7/14/2018,1/27/2018,F,23,malaise gravidique,Gynecologie
+741,7/15/2018,1/28/2018,F,21,malaise gravidique,Gynecologie
+742,7/16/2016,1/29/2016,F,31,malaise gravidique,Gynecologie
+743,7/17/2016,1/30/2016,F,38,malaise gravidique,Gynecologie
+744,7/13/2017,1/26/2017,F,27,malaise gravidique,Gynecologie
+745,7/14/2017,1/27/2017,F,23,malaise gravidique,Gynecologie
+746,7/15/2015,1/28/2021,F,21,malaise gravidique,Gynecologie
+747,7/16/2021,1/29/2021,F,31,malaise gravidique,Gynecologie
+748,7/17/2021,1/30/2021,F,38,malaise gravidique,Gynecologie
+749,7/18/2010,5/12/2010,M,3 jours,Faible poids de naissance,Neonatologie
+750,7/19/2010,5/13/2010,F,2 jours,Faible poids de naissance,Neonatologie
+751,7/20/2010,5/14/2010,F,28 jours,macrosonie,Neonatologie
+752,7/18/2010,5/12/2010,M,3 jours,Faible poids de naissance,Neonatologie
+753,7/19/2010,5/13/2010,F,2 jours,Faible poids de naissance,Neonatologie
+754,7/20/2010,5/14/2010,F,28 jours,macrosonie,Neonatologie
+755,7/18/2010,5/12/2010,M,3 jours,Faible poids de naissance,Neonatologie
+756,7/19/2010,5/13/2010,F,2 jours,Faible poids de naissance,Neonatologie
+757,7/20/2010,5/14/2010,F,28 jours,macrosonie,Neonatologie
+758,7/21/2011,5/15/2011,F,5 jours,Faible poids de naissance,Neonatologie
+759,7/22/2011,5/16/2011,M,6 jours,Faible poids de naissance,Neonatologie
+760,7/23/2011,5/9/2011,F,7 jours,Faible poids de naissance,Neonatologie
+761,7/21/2011,5/15/2011,F,5 jours,Faible poids de naissance,Neonatologie
+762,7/22/2011,5/16/2011,M,6 jours,Faible poids de naissance,Neonatologie
+763,7/23/2011,5/9/2011,F,7 jours,Faible poids de naissance,Neonatologie
+764,7/21/2011,5/15/2011,F,5 jours,Faible poids de naissance,Neonatologie
+765,7/22/2011,5/16/2011,M,6 jours,Faible poids de naissance,Neonatologie
+766,7/23/2011,5/9/2011,F,7 jours,Faible poids de naissance,Neonatologie
+767,7/24/2012,5/10/2021,M,8 jours,Faible poids de naissance,Neonatologie
+768,7/25/2012,5/18/2021,F,9 jours,Faible poids de naissance,Neonatologie
+769,7/26/2012,5/19/2021,M,10 jours,risque infectieux,Neonatologie
+770,7/24/2012,5/10/2021,M,8 jours,Faible poids de naissance,Neonatologie
+771,7/25/2012,5/18/2021,F,9 jours,Faible poids de naissance,Neonatologie
+772,7/26/2012,5/19/2021,M,10 jours,risque infectieux,Neonatologie
+773,7/30/2014,5/31/2014,M,5 jours,Faible poids de naissance,Neonatologie
+774,7/31/2014,6/5/2014,M,27 jours,risque infectieux,Neonatologie
+775,8/1/2014,6/25/2014,F,28 jours,risque infectieux,Neonatologie
+776,7/30/2014,5/31/2014,M,5 jours,Faible poids de naissance,Neonatologie
+777,7/31/2014,6/5/2014,M,27 jours,risque infectieux,Neonatologie
+778,8/1/2014,6/25/2014,F,28 jours,risque infectieux,Neonatologie
+779,8/2/2015,6/30/2015,F,17 jours,IN Natale,Neonatologie
+780,8/3/2015,7/9/2015,M,18 jours,hypotrope,Neonatologie
+781,8/4/2015,7/10/2015,M,19 jours,hypotrope,Neonatologie
+782,8/2/2015,6/30/2015,F,17 jours,IN Natale,Neonatologie
+783,8/3/2015,7/9/2015,M,18 jours,hypotrope,Neonatologie
+784,8/4/2015,7/10/2015,M,19 jours,hypotrope,Neonatologie
+785,8/8/2017,7/14/2017,F,16 jours,bebe macroso,Neonatologie
+786,8/9/2017,7/18/2017,F,3 jours,Faible poids de naissance,Neonatologie
+787,8/10/2017,7/19/2017,M,4 jours,IN Natale,Neonatologie
+788,8/8/2017,7/14/2017,F,16 jours,bebe macroso,Neonatologie
+789,8/9/2017,7/18/2017,F,3 jours,Faible poids de naissance,Neonatologie
+790,8/10/2017,7/19/2017,M,4 jours,IN Natale,Neonatologie
+791,8/5/2016,7/11/2016,F,13 jours,bebe macroso,Neonatologie
+792,8/6/2016,7/12/2016,F,14 jours,bebe macroso,Neonatologie
+793,8/7/2016,7/13/2016,F,15 jours,bebe macroso,Neonatologie
+794,8/11/2018,7/20/2018,M,5 jours,risque infectieux,Neonatologie
+795,8/12/2018,7/21/2018,M,6 jours,risque infectieux,Neonatologie
+796,8/13/2018,7/23/2018,F,7 jours,risque infectieux,Neonatologie
+797,8/14/2019,7/24/2019,F,8 jours,macroso,Neonatologie
+798,8/15/2019,7/25/2019,M,1 Jour,petit premature,Neonatologie
+799,8/16/2019,7/26/2019,F,2 Jour,petit premature,Neonatologie
+800,8/17/2020,7/27/2020,M,28 jours,Asphysie reonatale,Neonatologie
+801,8/18/2020,7/28/2020,F,29 jours,Asphysie reonatale,Neonatologie
+802,8/19/2020,7/29/2020,M,30 jours,Premature Asphysie,Neonatologie
+803,8/20/2021,7/30/2021,F,2 jours,petit premature,Neonatologie
+804,8/21/2021,7/31/2021,M,3 jours,risque infectieux,Neonatologie
+805,8/22/2021,8/1/2021,F,4 jours,bebe macroso,Neonatologie
+806,8/23/2021,8/2/2021,M,5 jours,Faible poids de naissance,Neonatologie
+807,8/24/2021,8/3/2021,M,6 jours,Faible poids de naissance,Neonatologie
+808,8/25/2021,8/4/2021,F,7 jours,macroso,Neonatologie
+809,8/11/2018,7/20/2018,M,5 jours,risque infectieux,Neonatologie
+810,8/12/2018,7/21/2018,M,6 jours,risque infectieux,Neonatologie
+811,8/13/2018,7/23/2018,F,7 jours,risque infectieux,Neonatologie
+812,8/14/2019,7/24/2019,F,8 jours,macroso,Neonatologie
+813,8/15/2019,7/25/2019,M,1 Jour,petit premature,Neonatologie
+814,8/16/2019,7/26/2019,F,2 Jour,petit premature,Neonatologie
+815,8/17/2020,7/27/2020,M,28 jours,Asphysie reonatale,Neonatologie
+816,8/18/2020,7/28/2020,F,29 jours,Asphysie reonatale,Neonatologie
+817,8/19/2020,7/29/2020,M,30 jours,Premature Asphysie,Neonatologie
+818,8/20/2021,7/30/2021,F,2 jours,petit premature,Neonatologie
+819,8/21/2021,7/31/2021,M,3 jours,risque infectieux,Neonatologie
+820,8/22/2021,8/1/2021,F,4 jours,bebe macroso,Neonatologie
+821,8/23/2021,8/2/2021,M,5 jours,Faible poids de naissance,Neonatologie
+822,8/24/2021,8/3/2021,M,6 jours,Faible poids de naissance,Neonatologie
+823,8/25/2021,8/4/2021,F,7 jours,macroso,Neonatologie
+824,8/11/2018,7/20/2018,M,5 jours,risque infectieux,Neonatologie
+825,8/12/2018,7/21/2018,M,6 jours,risque infectieux,Neonatologie
+826,8/13/2018,7/23/2018,F,7 jours,risque infectieux,Neonatologie
+827,8/14/2019,7/24/2019,F,8 jours,macroso,Neonatologie
+828,8/15/2019,7/25/2019,M,1 Jour,petit premature,Neonatologie
+829,8/16/2019,7/26/2019,F,2 Jour,petit premature,Neonatologie
+830,8/17/2020,7/27/2020,M,28 jours,Asphysie reonatale,Neonatologie
+831,8/18/2020,7/28/2020,F,29 jours,Asphysie reonatale,Neonatologie
+832,8/19/2020,7/29/2020,M,30 jours,Premature Asphysie,Neonatologie
+833,8/20/2021,7/30/2021,F,2 jours,petit premature,Neonatologie
+834,8/21/2021,7/31/2021,M,3 jours,risque infectieux,Neonatologie
+835,8/22/2021,8/1/2021,F,4 jours,bebe macroso,Neonatologie
+836,8/23/2021,8/2/2021,M,5 jours,Faible poids de naissance,Neonatologie
+837,8/24/2021,8/3/2021,M,6 jours,Faible poids de naissance,Neonatologie
+838,8/25/2021,8/4/2021,F,7 jours,macroso,Neonatologie
